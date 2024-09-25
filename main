@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michele Barone's Web Design Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f5f0;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #2e8b57;
+        }
+        p {
+            color: #555;
+        }
+        .project {
+            margin-bottom: 20px;
+        }
+        .project img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+        .project h2 {
+            color: #006400;
+        }
+        .project p {
+            color: #4f7942;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Michele Barone's Web Design Portfolio</h1>
+        <p>Welcome to my portfolio! I'm Michele Barone, a passionate web designer with a keen eye for creating engaging and functional websites. Here are three projects that highlight my expertise in web design.</p>
+
+        <div class="project">
+            <h2>Project 1: Eco-Friendly Business Website</h2>
+            <img src="project1.jpg" alt="Eco-Friendly Business Website">
+            <p>This project focused on developing a responsive and visually appealing website for an eco-friendly business. Key features include sustainable design elements, interactive content, and a user-friendly interface.</p>
+        </div>
+
+        <div class="project">
+            <h2>Project 2: Green E-commerce Platform</h2>
+            <img src="project2.jpg" alt="Green E-commerce Platform">
+            <p>Designed and developed an e-commerce platform with an emphasis on green products. The site features a seamless user experience, secure payment options, and an intuitive product navigation system.</p>
+        </div>
+
+        <div class="project">
+            <h2>Project 3: Nature Blog</h2>
+            <img src="project3.jpg" alt="Nature Blog">
+            <p>Created a minimalist blog for nature enthusiasts. The design highlights beautiful imagery, easy-to-read content, and social media integration for sharing nature stories and tips.</p>
+        </div>
+    </div>
+</body>
+</html>
